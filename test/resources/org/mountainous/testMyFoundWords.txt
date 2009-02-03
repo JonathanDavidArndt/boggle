@@ -1,0 +1,4 @@
+a
+acquire
+acquires
+acq
